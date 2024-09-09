@@ -97,7 +97,7 @@ Domain
  Run the following command on the server : 
 
  ```
- curl -o install.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/install.sh && bash install.sh
+ curl -o install.sh -L https://raw.githubusercontent.com/anfcs/botmirzapanel/main/install.sh && bash install.sh
 ```
 
 # update bot
@@ -105,13 +105,13 @@ Domain
  Run the following command on the server : 
 
  ```
- curl -o update.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/update.sh && bash update.sh
+ curl -o update.sh -L https://raw.githubusercontent.com/anfcs/botmirzapanel/main/update.sh && bash update.sh
 ```
 
 # Financial Support
 
 If Mirza Panel has been helpful to you and you would like to support its development, you can contribute financially using one of the following crypto networks:
 
-- TRX Network (TRC20): `TNvwhpNtXxKMFFeVzGR8GNZ6gL4aECituU`
+
 
 Thank you for your support!
